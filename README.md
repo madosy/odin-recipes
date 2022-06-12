@@ -7,7 +7,7 @@ Apply HTML knowledge gathered from TOP > Foundations > HTML Foundations and crea
 
 Objective:
 
-- Basic HTMl page following HTML5 template
+- Pages follow HTML5 template
 - Structure content using HTML elements appropriately to convey intent
 - Include lists
 - Include images
