@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Sacramento&display=swap');
+/*font-family: 'Merriweather', serif;
+font-family: 'Sacramento', cursive;*/
+
+body {
+    background-color: #F4EEFF;
+    font-family: 'Merriweather', serif;
+    color: rgb(48,48,48);
+    font-size: 1rem;
+}
+
+h1,h2 {
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    color: #424874;
+}
+
+h2 {
+    font-size: 3rem;
+    color: #A6B1E1;
+    margin: 10px auto 0px;
+}
+
+h3 {
+    color: #424874;
+}
+
+h4 {
+    color: #7882A4;
+}
+
+a {
+    text-decoration: none;
+    color: #424874;
+}
+
+a:hover {
+    color: #DCD6F7;
+    background-color: #A6B1E1;
+    transition: 0.3s;
+}
